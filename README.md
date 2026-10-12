@@ -69,3 +69,16 @@ Personal Data Analysis Portfolio Project | October 2026
 ## Dashboard Preview
 ![Sephora Beauty Dashboard](IMG_8667.jpeg)
 
+
+## Key Findings
+
+* Total Products Analysed: 500 Sephora beauty products.
+* Average Product Rating: 4.20, indicating generally positive customer ratings within the dataset.
+* Average Product Price: $53.07.
+* Price Category Distribution: Mid-range products represent the largest category (242 products, 48.4%), followed by budget products (194, 38.8%) and luxury products (64, 12.8%).
+* Customer Rating Distribution: 70.6% of products are classified as highly rated, while 27.0% are low rated and 2.4% are not rated.
+* Top-Rated Brand: Curlsmith has the highest average rating (4.80) among the top 10 brands shown in the dashboard.
+
+## Conclusion
+
+The analysis shows that mid-range products make up the largest proportion of the dataset, while most products fall into the high-rating category. These findings demonstrate how Excel can be used to clean, analyse and visualise product data to identify pricing patterns and customer rating trends.
