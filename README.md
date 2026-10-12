@@ -66,3 +66,6 @@ The dashboard presents three key performance indicators and visual comparisons o
 ## Project Type
 
 Personal Data Analysis Portfolio Project | October 2026
+## Dashboard Preview
+![Sephora Beauty Dashboard](IMG_8667.jpeg)
+
